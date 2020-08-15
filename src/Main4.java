@@ -20,7 +20,7 @@ public class Main4 {
          *{
          *return 0;
          *}
-         *
+         *hhh
          *本题有多组数据，请使用while(cin >> ) 读取
          */
         Scanner sc = new Scanner(System.in);
