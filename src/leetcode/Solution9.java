@@ -12,13 +12,11 @@ public class Solution9 {
         char[] str = (x+"").toCharArray();
         int j=str.length-1;
         for(int i=0;i<str.length;i++){
-
             if(str[i]!=str[j])
                 return false;
             if(str[i]==str[j]&&j<=i)
                 return true;
             j--;
-
         }
         return false;
 
