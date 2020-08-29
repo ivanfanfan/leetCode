@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.s9;
 
 /**
  * 判断是否是回文数 2020年8月23日21:26:20

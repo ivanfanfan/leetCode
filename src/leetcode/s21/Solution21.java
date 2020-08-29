@@ -1,7 +1,6 @@
-package leetcode;
+package leetcode.s21;
 
 import java.util.Deque;
-import java.util.List;
 import java.util.Queue;
 import java.util.Stack;
 

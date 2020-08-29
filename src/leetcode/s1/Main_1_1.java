@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.s1;
 
 import jdk.internal.util.xml.impl.Input;
 

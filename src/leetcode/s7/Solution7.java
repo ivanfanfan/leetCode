@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.s7;
 
 /**
  *  public int reverse(int x) {

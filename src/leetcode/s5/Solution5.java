@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.s5;
 
 /**
  * 回文最大子串  暴力破解

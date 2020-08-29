@@ -1,6 +1,5 @@
 package javacore.binaryTree;
 
-import javax.swing.*;
 
 public class LinkedBinaryTree implements BinaryTree{
 

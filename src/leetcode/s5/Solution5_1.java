@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.s5;
 
 
 //中心扩散

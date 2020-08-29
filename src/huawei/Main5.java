@@ -1,3 +1,5 @@
+package huawei;
+
 public class Main5 {
     /*  请实现如下接口
 

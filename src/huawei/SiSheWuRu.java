@@ -1,3 +1,5 @@
+package huawei;
+
 public class SiSheWuRu {
 
     public static void main(String[] args) {
